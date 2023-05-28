@@ -1,0 +1,7 @@
+.sectionContainer {
+    height: 100rem;
+}
+.firstArticle {
+    height: 30%;
+    border-bottom: 3px solid red;
+}
